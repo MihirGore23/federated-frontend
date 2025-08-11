@@ -1,5 +1,5 @@
 const CONFIG = {
-    EDGE_SERVER_URL: 'http://localhost:8000', 
+    EDGE_SERVER_URL: 'https://federated-edge.onrender.com', 
     IMAGE_SIZE: 96,
     BATCH_SIZE: 8,
     EPOCHS: 7,
